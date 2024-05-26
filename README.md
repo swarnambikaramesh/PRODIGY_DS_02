@@ -7,7 +7,7 @@ Data cleaning and EDA
 
 This project aims to predict salaries based on age and rating using linear regression. The dataset used contains information about age, salary range, rating, location, establishment year, and whether easy apply is available. Data cleaning and exploratory data analysis (EDA) are performed before building the prediction model.
 
-## Dataset
+# Dataset
 
 The dataset is named `salaryage.csv` and contains the following columns:
 - `Index`: Index of the record
